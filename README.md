@@ -16,4 +16,4 @@ An exploratory data analysis (EDA) project focused on uncovering trends, pricing
 ## 🚀 How to Run the Project
 1. Clone this repository:
 ```bash
-   git clone [https://github.com/MirzaNehanBaig/Python_Smartphone_Sales_Analysis.git](https://github.com/MirzaNehanBaig/Python_Smartphone_Sales_Analysis.git)
+   git clone https://github.com/MirzaNehanBaig/Python_Smartphone_Sales_Analysis.git
